@@ -15,7 +15,7 @@ class Rectangle():
     # Create the "__str__" method
     #
     # It returns a string,
-    #       "A rectangle with width ____ and height ____"
+    #       "A rectangle with width ____ and height ____
 
     # YOUR CODE HERE
     def __str__(self):
